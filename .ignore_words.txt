@@ -1,6 +1,0 @@
-documentclass
-EDITMSG
-Pandoc
-peaceiris
-scrreprt
-tinytex
