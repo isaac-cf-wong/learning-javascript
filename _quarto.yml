@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Learning Javascript"
+  author: "Isaac C. F. Wong"
+  date: "9/5/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
